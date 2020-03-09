@@ -1,2 +1,2 @@
 # nodejs-cicd
-cicd with jenkins
+cicd with heroku
